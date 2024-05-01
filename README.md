@@ -25,11 +25,12 @@ AWS is the most complete solution to cloud infrastructure environments, it provi
 
 - Each availability zone (AZ) is one or more discrete data centers with redundant power, networking and connectivity.
 
+### AWS Data Centers
+
 - They are separate from each other, so they are isolated from disasters.
 
 - They are connected with high bandwidth, ultra-low latency networking.
 
-### AWS Data Centers
 ### AWS Edge Locations/Points of presence
 
 - AWS has 400+ Points of presence.
