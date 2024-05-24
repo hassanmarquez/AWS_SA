@@ -12,10 +12,11 @@ AWS is the most complete solution to cloud infrastructure environments, it provi
 - Most AWS services are region-scoped
   
   ***Factors that impact region selection***
-  - Governance
-  - Latency
+  - Governance (Compliance)
+  - Latency (Proximity)
   - Service availability
-  - Cost
+  - Cost (Pricing)
+  
 ### AWS Availability zones
 -   Each region has many availability zones (Usually 3 as minimum and 6 as maximum):
     Example:
